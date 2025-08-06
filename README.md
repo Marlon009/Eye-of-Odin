@@ -9,7 +9,7 @@ O Eye of Odin é uma ferramenta avançada de OSINT (Open Source Intelligence) in
 
 - 🔍 **Rastreamento de IP**: Geolocalização precisa com coordenadas DMS e decimal
 - 📞 **Rastreamento de Telefone**: Operadora, região e fuso horário
-- 👤 **Busca de Usuário**: Verificação em 10+ redes sociais
+- 👤 **Busca de Usuário**: Verificação em 100+ redes sociais
 - 🌐 **Informações de Domínio**: WHOIS completo e histórico DNS
 - 📧 **Verificação de Email**: Checagem de vazamentos em bancos de dados públicos
 - 🖼️ **Análise de Imagem**: Extração de metadados EXIF e pesquisa reversa
