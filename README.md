@@ -141,8 +141,6 @@ Contato
 
 Desenvolvedor: Marlon
 
-Exemplos de Uso (opcional):
-markdown
 
 ## Exemplos de Uso
 
