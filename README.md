@@ -102,23 +102,23 @@ O menu principal será exibido:
 
                                          github:Marlon009
         
-[SEM-TOR] [+] Menu Principal:
-[1] Rastrear IP
-[2] Rastrear Telefone
-[3] Buscar Usuário
-[4] Informações de Domínio
-[5] Verificar Email (vazamentos)
-[6] Analisando imagem...
-[7] Analisar Documento
-[8] Rastrear Criptomoeda
-[9] Buscar Documentos Vazados
-[10] Pesquisa em Lote
-[11] Analisando rede...
-[12] Alternar Tor
-[13] Gerar Relatório
-[0] Sair
-
-[?] Escolha uma opção: 
+     [SEM-TOR] [+] Menu Principal:
+     [1] Rastrear IP
+     [2] Rastrear Telefone
+     [3] Buscar Usuário
+     [4] Informações de Domínio
+     [5] Verificar Email (vazamentos)
+     [6] Analisando imagem...
+     [7] Analisar Documento
+     [8] Rastrear Criptomoeda
+     [9] Buscar Documentos Vazados
+     [10] Pesquisa em Lote
+     [11] Analisando rede...
+     [12] Alternar Tor
+     [13] Gerar Relatório
+     [0] Sair
+     
+     [?] Escolha uma opção: 
 
 Contribuição
 
