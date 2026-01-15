@@ -1,0 +1,8 @@
+requests
+phonenumbers
+python-whois
+pysocks
+PyPDF2
+pillow
+python-docx
+beautifulsoup4

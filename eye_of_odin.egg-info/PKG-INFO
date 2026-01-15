@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: eye-of-odin
+Version: 1.0.0
+Requires-Dist: requests
+Requires-Dist: phonenumbers
+Requires-Dist: python-whois
+Requires-Dist: pysocks
+Requires-Dist: PyPDF2
+Requires-Dist: pillow
+Requires-Dist: python-docx
+Requires-Dist: beautifulsoup4
+Dynamic: requires-dist

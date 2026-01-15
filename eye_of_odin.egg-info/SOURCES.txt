@@ -1,0 +1,11 @@
+README.md
+setup.py
+eye_of_odin.egg-info/PKG-INFO
+eye_of_odin.egg-info/SOURCES.txt
+eye_of_odin.egg-info/dependency_links.txt
+eye_of_odin.egg-info/entry_points.txt
+eye_of_odin.egg-info/requires.txt
+eye_of_odin.egg-info/top_level.txt
+odin/__init__.py
+odin/cli.py
+odin/languages.py
