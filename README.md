@@ -48,7 +48,7 @@ Uso
 Execute o script principal:
 bash
 
-python odin.py
+python cli.py
 
 O menu principal será exibido:
 
