@@ -45,10 +45,9 @@ pip install -r requirements.txt
 
 Uso
 
-Execute o script principal:
-bash
+Execute como módulo do pacote:
 
-python cli.py
+python -m odin.cli
 
 O menu principal será exibido:
 
